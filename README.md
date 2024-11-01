@@ -10,7 +10,7 @@ Before you begin, ensure you have the following prerequisites met:
 
 ### Setup Instructions
 
-1. Clone the repo
+1. Clone the Repository
 
 ```
 git clone https://github.com/tdolivierth7/aws-serverless-workshop.git
